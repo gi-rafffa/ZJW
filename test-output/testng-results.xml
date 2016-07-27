@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39426" started-at="2016-07-27T09:23:15Z" finished-at="2016-07-27T09:23:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39426" started-at="2016-07-27T09:23:15Z" finished-at="2016-07-27T09:23:54Z">
+      <class name="de.zipjet.tests.BasicOrderTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:de.zipjet.tests.BasicOrderTest@4563e9ab]" name="setUp" is-config="true" duration-ms="7586" started-at="2016-07-27T11:23:15Z" finished-at="2016-07-27T11:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="defaultOrder()[pri:0, instance:de.zipjet.tests.BasicOrderTest@4563e9ab]" name="defaultOrder" duration-ms="31607" started-at="2016-07-27T11:23:22Z" finished-at="2016-07-27T11:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defaultOrder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:de.zipjet.tests.BasicOrderTest@4563e9ab]" name="tearDown" is-config="true" duration-ms="220" started-at="2016-07-27T11:23:54Z" finished-at="2016-07-27T11:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- de.zipjet.tests.BasicOrderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
